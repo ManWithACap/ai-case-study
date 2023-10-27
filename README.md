@@ -20,7 +20,10 @@
 
 * Meta's solution to their problem defined as making sure everyone is connected and able to communicate is the metaverse. This is a sort of huge social network that users can access to connect and socialize with other users.
 
-* Just Facebook alone uses `#0969DA` React, PHP, GraphQL, Memcached, Cassandra, Hack, Flux, Tornado, Presto, Relay Framework, RocksDB, Yoga, Prepack, McRouter, Hydra Framework, Beringei, Framer, Docusaurus, BitBar, Prophet, Origami, Stetho, Pop, ENorm, Jenkins, Jest, Datadog, Chef, Phabricator, HHVM, Nuclide, Buck, Infer, LogDevice, Confluence and Campaign Monitor.
+* Just Facebook alone uses 
+```diff
+ - React, PHP, GraphQL, Memcached, Cassandra, Hack, Flux, Tornado, Presto, Relay Framework, RocksDB, Yoga, Prepack, McRouter, Hydra Framework, Beringei, Framer, Docusaurus, BitBar, Prophet, Origami, Stetho, Pop, ENorm, Jenkins, Jest, Datadog, Chef, Phabricator, HHVM, Nuclide, Buck, Infer, LogDevice, Confluence and Campaign Monitor.
+```
 
 ## Landscape
 

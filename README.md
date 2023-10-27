@@ -25,26 +25,24 @@
 
 ## Landscape
 
-* What field is the company in?
+* Meta experiements and develops with augmented reality (AR) and virtual reality (VR).
 
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
+* Aside from greatly improving the standard functions of virtual reality headsets and things similar to the google glasses, there have been many innovations. Meta released the Meta Quest 3, a wireless virutal reality headset with augmented reality support. Allowing seamless transition between virutal and augmented reality experiences.
 
-* What are the other major companies in this field?
+* Valve is the biggest competitor to Meta's VR and AR technology. There are smaller, less signifigant competitors but they don't pose any competition.
 
 ## Results
 
-* What has been the business impact of this company so far?
+* Meta has become one of the leading companies in A.I., VR/AR, and social networking technology.
 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+* Meta most likely measures their success on their profit and customer numbers.
 
-* How is your company performing relative to competitors in the same field?
+* Meta is leading, if not, close to leading against it's competitors.
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* Instead of including VR and AR in the same device, it would be interesting to see how an extremely lightweight version of a VR headset or "glasses" would do. The same goes for AR headsets or "glasses".
 
-* Why do you think that offering this product or service would benefit the company?
+* Providing these devices with specific functionality could offer the company a place to focus and experiment on ideas solely in that field. It would also allow customers to "buy a tool that's really good at it's job."
 
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
+* It would not utilize any new technology in my suggestion, but it is expandable for whatever Meta wants to do.

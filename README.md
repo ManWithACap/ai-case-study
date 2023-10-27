@@ -8,9 +8,11 @@
 
 * Founded by Mark Elliot Zuckerberg
 
-* > "Meta's focus will be to bring the metaverse [this is Meta's idea of a mega social network] to life and help people connect, find communities and grow businesses." *The Facebook Company is now Meta.* Meta. (2022, November 7). https://about.fb.com/news/2021/10/facebook-company-is-now-meta/
+* > "Meta's focus will be to bring the metaverse [this is Meta's idea of a mega social network] to life and help people connect, find communities and grow businesses." 
+*The Facebook Company is now Meta.* Meta. (2022, November 7). https://about.fb.com/news/2021/10/facebook-company-is-now-meta/
 
-* How is the company funded? How much funding have they received?
+* > "Meta has raised a total of $24.6B in funding over 15 rounds. Their latest funding was raised on Aug 4, 2022 from a Post-IPO Debt round."
+*Meta - funding, financials, valuation & investors.* Crunchbase. (2023, October 26). https://www.crunchbase.com/organization/facebook/company_financials
 
 ## Business Activities
 

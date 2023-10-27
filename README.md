@@ -2,13 +2,13 @@
 
 ## Overview and Origin
 
-* Name of company
+* Meta Platforms Inc.
 
-* When was the company incorporated?
+* Incorporated in 2004
 
-* Who are the founders of the company?
+* Founded by Mark Elliot Zuckerberg
 
-* How did the idea for the company (or project) come about?
+* > "Meta's focus will be to bring the metaverse [this is Meta's idea of a mega social network] to life and help people connect, find communities and grow businesses." *The Facebook Company is now Meta.* Meta. (2022, November 7). https://about.fb.com/news/2021/10/facebook-company-is-now-meta/
 
 * How is the company funded? How much funding have they received?
 

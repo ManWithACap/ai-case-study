@@ -16,13 +16,11 @@
 
 ## Business Activities
 
-* What specific problem is the company or project trying to solve?
+* Meta is very ambitious and hopes to have their consumer base be as wide as possible spanning the entire internet. They want to bring the metaverse to the world as a whole.
 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
+* Meta's solution to their problem defined as making sure everyone is connected and able to communicate is the metaverse. This is a sort of huge social network that users can access to connect and socialize with other users.
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+* Just Facebook alone uses `#0969DA` React, PHP, GraphQL, Memcached, Cassandra, Hack, Flux, Tornado, Presto, Relay Framework, RocksDB, Yoga, Prepack, McRouter, Hydra Framework, Beringei, Framer, Docusaurus, BitBar, Prophet, Origami, Stetho, Pop, ENorm, Jenkins, Jest, Datadog, Chef, Phabricator, HHVM, Nuclide, Buck, Infer, LogDevice, Confluence and Campaign Monitor.
 
 ## Landscape
 
